@@ -7,4 +7,4 @@ for x in nums:
     else:
         freq[x] = 1
 
-print(freq)  # {1: 1, 2: 2, 3: 3}
+print(freq)  
